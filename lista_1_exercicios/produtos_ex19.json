@@ -1,0 +1,34 @@
+{
+    "Produtos" :[
+        {
+            "Codigo": 100,
+            "Descrição": "Cachorro Quente",
+            "Preço":3.00
+        },
+        {
+            "Codigo": 200,
+            "Descrição": "Hambúrguer Simples",
+            "Preço":4.00
+        },
+        {
+            "Codigo": 300,
+            "Descrição": "Cheeseburguer",
+            "Preço":5.50
+        },
+        {
+            "Codigo": 400,
+            "Descrição": "Bauru",
+            "Preço":7.50
+        },
+        {
+            "Codigo": 500,
+            "Descrição": "Refrigerante",
+            "Preço":3.50
+        },
+        {
+            "Codigo": 600,
+            "Descrição": "Suco",
+            "Preço":2.80
+        }
+    ]
+}
